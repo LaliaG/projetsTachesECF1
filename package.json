@@ -7,7 +7,7 @@
     "start": "nodemon app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Lalia SY",
   "license": "ISC",
   "description": "",
   "dependencies": {
@@ -16,7 +16,7 @@
     "express": "^4.18.2",
     "jsonwebtoken": "^9.0.2",
     "mysql2": "^3.9.1",
-    "nodemon": "^3.0.3",
+    "nodemon": "^3.1.0",
     "sequelize": "^6.36.0",
     "vue-router": "^4.2.5"
   }

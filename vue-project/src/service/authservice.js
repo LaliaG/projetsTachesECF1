@@ -1,4 +1,4 @@
-import router from '@/router';
+import router from '@/router/vueRouter';
 import axios from 'axios';
 
 const API_URL = 'http://localhost:3000/api/user/';
